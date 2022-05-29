@@ -1,2 +1,2 @@
 # git
-this is for learning person
+this is for learning purpose
